@@ -1,0 +1,2 @@
+model_checkpoint_path: "job_name_extraction_model"
+all_model_checkpoint_paths: "job_name_extraction_model"

@@ -1,0 +1,43 @@
+
+学校：
+淮阴工学院
+2008/9--2012/6
+专业：
+光信息科学与技术
+本科
+###
+          2.控制舵机的水平，垂直旋转，让视频采集更具灵活性。
+          3.WIFI热点，通过WIFI热点控制小车与舵机的运动
+          4.无线遥控小车运动，摄像头舵机的旋转。
+软件平台：
+负责模块：
+      2.编写MG995舵机(PWM)模块驱动,实现摄像头水平、垂直运动。
+      3.移植Mjpg-streamer视频服务器开源软件,实现采集视频的实时播放。
+          4.移植Hostapd，实现WIFI热点使用、远程无线控制小车的运行、视频舵机垂直水平的旋转。
+      5.移植Dnsmasq，配合WIFI搭建一个小型网络，实现IP分配与解析，DNS和DHCP功能。   
+###
+Achievements
+发表SCI检索论文1篇（IF 3.03），EI检索论文3篇
+联合撰写专著1部：《远程设备智能维护》，机械工业出版社，2019.7（4作，前3作为导师和副导师）
+参加国际会议3次： 
+2018 International Mechanical Engineering Congress &amp; Exposition（机械领域顶会，口头报告）
+2018 The 5th Intl. Conference on Soft Computing &amp; Machine Intelligence（计算机领域，口头报告）
+第二届轨道交通结构健康监测国际研讨会（机械领域，海报）
+研究生期间撰写项目申请书10余份，成功通过3项，其中企业项目2项，校重点建设项目1项
+###
+Apache Atlas contributor
+[ATLAS-2816](resolved)：优化Atlas数据写入函数的关键路径，将时间复杂度O(n^2)降低为O(n)
+[ATLAS-3109](resolved)：查询entity信息的api支持忽略related entity，提升api性能
+[ATLAS-3280](patch available)：修复Hive Hook捕捉到DDL语句时错误生成血缘信息的bug
+[ATLAS-3281] (patch available)：增强Gremlin query，支持获取血缘信息时过滤已删除状态的entity
+[ATLAS-3319](resolved)：支持根据表名获取关联的血缘信息，优化api易用性
+###
+大学英语四级
+2009/12
+###
+英语：
+良好
+听说：
+良好
+读写：
+良好

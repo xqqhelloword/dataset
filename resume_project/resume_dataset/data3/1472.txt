@@ -1,0 +1,33 @@
+
+学校：
+上海电力学院
+2007/9--2011/6
+专业：
+材料化学
+本科
+###
+Apache Atlas contributor
+[ATLAS-2816](resolved)：优化Atlas数据写入函数的关键路径，将时间复杂度O(n^2)降低为O(n)
+[ATLAS-3109](resolved)：查询entity信息的api支持忽略related entity，提升api性能
+[ATLAS-3280](patch available)：修复Hive Hook捕捉到DDL语句时错误生成血缘信息的bug
+[ATLAS-3281] (patch available)：增强Gremlin query，支持获取血缘信息时过滤已删除状态的entity
+[ATLAS-3319](resolved)：支持根据表名获取关联的血缘信息，优化api易用性
+###
+公司：
+XX有限公司
+2014/1--2015/1
+职位：
+物流数据专员
+行业：
+机械/设备/重工
+部门：
+物流部
+工作内容：
+1.负责产品线日常货物的流向跟踪，货物收发和各部门沟通；2.控制运输和仓储成本；3.定期汇总上报各项物流管理报表；
+###
+英语：
+良好
+听说：
+良好
+读写：
+良好

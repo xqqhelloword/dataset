@@ -1,0 +1,321 @@
+﻿教育经历 edu_back
+教育情况 edu_back
+教育背景 edu_back
+学习背景 edu_back
+奖励情况 honour
+奖励荣誉 honour
+奖项证书 honour skill
+获奖证书 honour skill
+证书信息 honour skill
+奖惩情况 honour
+技能荣誉 skill honour
+奖励荣誉 honour
+奖项成就 honour
+获奖情况 honour
+荣誉详情 honour
+实践技能 skill
+实力水平 skill
+知识储备 skill
+技能储备 skill
+自我推荐 self_comment
+校内活动 school_exp
+校园活动 school_exp
+校内经历 school_exp
+律师经历 job_exp
+教育历程 edu_back
+求职意向 base_info
+求职意愿 base_info
+岗位意向 base_info
+岗位意愿 base_info
+最近工作 job_exp
+最高学历 edu_back
+语言能力 skill
+工作能力 skill
+工作能力及其他专长 skill
+技能专长 skill
+技能特长 skill
+工作专长 skill
+某某技能 skill
+某某能力 skill
+证书 honour skill
+开发实践 item_exp
+开发经验 item_exp
+项目实践 item_exp
+项目作品 item_exp
+项目成就 item_exp
+项目经历 item_exp
+项目经验 item_exp
+职业技能 base_info
+职业证书 honour
+职业规划 base_info
+证书技能 honour skill
+证书及奖项 honour skill
+证书详情 honour skill
+证书奖项 honour skill
+证书荣誉 honour skill
+证书&奖项 honour skill
+证书&荣誉 honour skill
+证书与技能 skill
+证书/执照 skill
+实习经历 job_exp
+工作经历 job_exp
+工作背景 job_exp
+工作情况 job_exp
+工作技能 job_exp skill
+社会实践 job_exp school_exp
+工作方向 skill
+工作及实习经历 job_exp
+工作技能概述 skill
+工作期间项目经历 job_exp item_exp
+工作实习 job_exp
+工具使用 skill
+补充信息 other
+具备的技能 skill
+具备技能详情 skill
+具备技能 skill
+社交平台信息 other base_info
+社交信息 base_info other
+社交账号 base_info other
+社会实践经验 school_exp
+社会实践 school_exp
+社会实践经历 school_exp
+社团和组织经历 school_exp
+社团经历 school_exp
+社团组织 school_exp
+实习及工作经历 job_exp
+实习/工作经历 job_exp
+实习和比赛经历 job_exp item_exp honour
+实习实践 job_exp
+实践实习 job_exp
+实习/项目经历 job_exp item_exp
+实习经历 job_exp
+实践经历 item_exp school_exp
+实习/项目 job_exp item_exp
+实习经验 job_exp
+实习&兼职经历 job_exp school_exp
+实践经验 item_exp school_exp
+实习&项目经验 job_exp item_exp
+个人介绍 base_info self_comment
+个人总结 self_comment
+个人爱好 self_comment
+个人特点 self_comment
+个人兴趣爱好 self_comment
+个人信息 base_info
+个人评价 self_comment
+个性特长 self_comment skill
+个性爱好 self_comment
+个性特点 self_comment
+个人荣誉 honour
+个人技能 skill
+个人成就 honour sci_exp item_exp
+个人简述 self_comment base_info
+个人基本信息 base_info
+个人能力 skill
+能力/技能 skill
+能力水平 skill
+个人项目 item_exp
+个人资料 base_info
+个人基础信息 base_info
+个人基础资料 base_info
+个人技能及优势 skill
+个人技能和优势 skill
+个人描述 self_comment base_info
+个人主页 base_info
+个人概况 self_comment base_info
+专业技术 skill
+专业能力 skill
+专利&论文 sci_exp
+专利发表 sci_exp
+专业工具能力 skill
+专业知识 skill
+专业知识技能 skill
+专利情况 sci_exp
+专业技能及自我评价 skill self_comment
+专业技术能力 skill
+专业技能 skill
+专业积累概要 skill
+专业积累 skill
+专业论著 sci_exp
+专利/论文 sci_exp
+兴趣特长 self_comment
+兴趣爱好 self_comment
+兴趣爱好及自我评价 self_comment
+特长爱好 self_comment skill
+特长喜好 self_comment skill
+科研成果 sci_exp
+科研成就 sci_exp
+科研实践 sci_exp item_exp
+科研经历 sci_exp
+科研能力 sci_exp skill
+科研学习经历 sci_exp
+科技作品 item_exp
+科研竞赛 item_exp honour
+技能/证书及其他 skill honour other
+技能自评 skill self_comment
+技能爱好 skill self_comment
+技术能力 skill
+技术特长 skill
+技能介绍 skill
+技能&语言 skill
+技能和语言 skill
+技能&荣誉 skill honour
+技能荣誉 skill honour
+技能和荣誉 skill honour
+技术技能 skill honour
+技能与证书 skill honour
+技能及证书 skill honour
+技能&证书 skill honour
+技能与自我评价 skill self_comment
+技术栈 skill
+技术方向 skill
+技能水平 skill
+技能证书 skill honour
+技术&技能 skill
+技能关键词 skill
+技术关键词 skill
+技能&技术关键词 skill
+编程语言 skill
+编程技能 skill
+成绩荣誉 honour school_exp
+在校经历 school_exp
+在校情况 school_exp
+在校成果 school_exp
+在校荣誉 school_exp honour
+在校荣誉奖励 school_exp honour
+在校学习情况 school_exp honour
+在校科研 school_exp sci_exp
+在校成就 school_exp honour
+在校荣誉成就 school_exp honour
+在校奖励 school_exp honour
+外语及证书 skill honour
+外语及其他证书 skill honour
+外语&证书 skill honour
+外语&其他证书 skill honour
+主要工作 job_exp
+主要工作及项目经历 job_exp item_exp
+主要项目 item_exp
+主要获奖情况 honour
+主修课程 edu_back
+论文专利情况 sci_exp
+论文情况 sci_exp
+论文发表 sci_exp
+论文&专利 sci_exp
+论文/专利 sci_exp
+论文及专利 sci_exp
+论文专著 sci_exp
+专著论文 sci_exp
+论文与专著 sci_exp
+专著与论文 sci_exp
+论文与专利 sci_exp
+专利发表 sci_exp
+培训&经历 job_exp item_exp
+培训及经历 job_exp item_exp
+培训经历 job_exp item_exp
+培训与经历 job_exp item_exp
+培训实践 job_exp item_exp
+竞赛及项目经历 item_exp
+竞赛履历 item_exp
+竞赛经历 item_exp
+竞赛/项目经历 item_exp
+算法方向 skill
+算法研究方向 skill
+自我评价 self_comment
+自我评价及专业技能 self_comment skill
+自荐信 other
+自荐书 other
+自我描述 self_comment
+自我评定 self_comment
+自我介绍 self_comment base_info
+自我评估 self_comment
+自我认识与评价 self_comment
+自评 self_comment
+荣誉 honour
+荣誉奖项 honour
+荣誉/奖励 honour
+荣誉技能 honour skill
+荣誉和奖励 honour
+荣誉奖励 honour
+荣誉证书 honour skill
+荣誉&奖励 honour
+荣誉与奖励 honour
+荣誉&技能 honour skill
+荣誉和技能 honour skill
+荣誉和获奖 honour
+荣誉获奖 honour
+学术成果 sci_exp
+学习经历 school_exp item_exp
+学历背景 edu_back
+个人资历 edu_back
+学习履历 edu_back
+个人履历 edu_back job_exp
+学厉学位情况 edu_back
+学历学位背景 edu_back
+学位背景 edu_back
+学术论文 sci_exp
+学习成就 school_exp item_exp honour
+学术报告 sci_exp
+学生工作经历 school_exp
+学生工作 school_exp
+学术水平 sci_exp skill
+IT技能 skill
+校内荣誉 honour school_exp
+校园经历 school_exp
+校园实践经历 school_exp
+校内经历 school_exp
+所获奖项 honour
+语言技能 skill
+语言水平 skill
+语言&技能 skill
+语言能力 skill
+语言掌握 skill
+语言和技能 skill
+重点项目 item_exp
+基础信息 base_info
+基础资料 base_info
+基本信息 base_info
+附加信息 other
+研究生期间项目经历 item_exp
+研究经历 sci_exp item_exp
+研究方向 base_info skill
+研究技术方向 base_info skill
+研究项目 item_exp sci_exp
+研究/项目经历 item_exp sci_exp
+研究项目成果 item_exp sci_exp
+相关经验 item_exp
+相关技能 skill
+知识储备 skill
+其他水平 other
+其他 other
+其他信息 other
+爱好特长 self_comment skill
+简述 self_comment base_info
+简介 self_comment base_info
+参与基金情况 item_exp sci_exp
+开源贡献 item_exp other
+喜好特长 self_comment skill
+取得证书 honour skill
+毕业设计 school_exp item_exp sci_exp
+获奖情况 honour
+获奖经历 honour
+获奖和荣誉 honour
+课程设计 school_exp item_exp
+课外活动 school_exp other
+课题和论文 sci_exp item_exp
+介绍信 other
+活动 school_exp
+受到奖励 honour
+推荐人 other
+推荐者 other
+推荐信 other
+推荐书 other
+能力特长 skill
+能力技能 skill
+比赛经历 item_exp honour
+资格证书 honour
+英语能力 skill
+英语水平 skill
+掌握技能 skill
+性格兴趣 self_comment
+求职信 other
+组织经历 school_exp item_exp
+水平资格证书 honour skill
