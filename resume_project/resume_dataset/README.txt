@@ -1,3 +1,7 @@
+Resumes-A:(data1, label1)
+Resumes-B:(data2, label2)
+Resumes-C:(data3, label3)
+
 The format of one resume is txt, and using the "###" to segment each resume block such as "basic information","education background","job experience" .
 The total categories is 10, each category is labeled with one-hot format.
 Each resume has a category which is formatted as a txt file, for example, the resume file :"0.txt", then it's category is saved in the "label" directory using a txt file named "0.txt".
